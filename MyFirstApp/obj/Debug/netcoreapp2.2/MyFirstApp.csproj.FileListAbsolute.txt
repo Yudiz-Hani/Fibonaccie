@@ -1,0 +1,11 @@
+D:\Yudiz\C#\MyFirstApp\bin\Debug\netcoreapp2.2\MyFirstApp.deps.json
+D:\Yudiz\C#\MyFirstApp\bin\Debug\netcoreapp2.2\MyFirstApp.runtimeconfig.json
+D:\Yudiz\C#\MyFirstApp\bin\Debug\netcoreapp2.2\MyFirstApp.runtimeconfig.dev.json
+D:\Yudiz\C#\MyFirstApp\bin\Debug\netcoreapp2.2\MyFirstApp.dll
+D:\Yudiz\C#\MyFirstApp\bin\Debug\netcoreapp2.2\MyFirstApp.pdb
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.csprojAssemblyReference.cache
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.AssemblyInfoInputs.cache
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.AssemblyInfo.cs
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.dll
+D:\Yudiz\C#\MyFirstApp\obj\Debug\netcoreapp2.2\MyFirstApp.pdb
